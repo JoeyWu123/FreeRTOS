@@ -75,6 +75,7 @@
 extern "C" {
 #endif
 
+#include <stdint.h>
 /*-----------------------------------------------------------
  * Port specific definitions.
  *
